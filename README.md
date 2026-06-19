@@ -104,8 +104,6 @@ For B2B SaaS, useful signals include sales conversations, buyer education, inbou
 - [`research/other/final-summary.md`](research/other/final-summary.md) — summary of findings
 - [`collect_transcripts.py`](collect_transcripts.py) — transcript collection script
 
-## Status
+## Summary
 
-Research collection and organization completed.
-
-**Last updated:** 2026-06-19
+This research collection is organized to support a future playbook on YouTube content strategy for B2B SaaS. The materials include expert sources, YouTube transcripts, LinkedIn post notes, methodology, and analysis summaries.
