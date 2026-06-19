@@ -1,0 +1,29 @@
+# April Dunford - LinkedIn Posts
+
+## Post 1: Positioning in the Age of AI
+
+- **Author:** April Dunford
+- **Date:** ~1 month ago
+- **URL:** https://www.linkedin.com/posts/aprildunford_in-todays-newsletter-im-talking-about-activity-7463238631441403904-hHDU
+- **Topic:** Positioning, AI market changes, point of view, competitive landscape, customer understanding
+- **Why relevant:** This post is relevant because B2B SaaS YouTube content strategy depends heavily on positioning. April argues that companies need a clear point of view, must position against true competition, and need to connect future vision with where customers are today. These ideas can guide what a B2B SaaS company should communicate through YouTube content.
+
+### Full Post Text
+
+In today's newsletter, I'm talking about Positioning in the Age of AI and some considerations for both native AI and SaaS businesses right now.
+
+1️⃣ A point of view is no longer optional - where the market is changing quickly, customers will look to vendors to give them advice on what sort of a future they should be planning for. Five years ago you might have been able to get away without a point of view on how your part of the market is going to change, today this is critical.
+
+2️⃣ Position against your true competition (but plan for the future fight) - many of the companies I am working with today understand that the competitive landscape will be different in a couple of years. The key is to ensure you are positioning for the fight you are in right now, while product is planning for ways to win the fight of tomorrow. Letting your positioning get ahead of where your customers are right now is risky.
+
+3️⃣ Hype the heck out of the future (where you can), but connect it with where customers are today - buyers are worried about investing in technology that might become outdated or "legacy" as AI improves. They are also worried about their current investments as the landscape changes. Not only do you need a vision for the future, but you also need to demonstrate to customers the steps you will take with them from where they are today to where they want to be.
+
+4️⃣ It's never been more important to understand how customers ACTUALLY think - in times of great technology changes, it's easy for us to get lost in the hype. It is very important to find ways to keep your finger on how customers are thinking and behaving. If you don't have programmatic ways of doing that (a customer advisory board, executive customer sponsorships, win/loss analysis), there is no better time to start.
+
+Full article link in the comments.
+
+### Research Notes
+
+- Main idea: strong B2B positioning needs a clear point of view, true competitive context, and customer-grounded messaging.
+- Useful for YouTube strategy: B2B SaaS videos should not only explain features; they should help buyers understand market change and future direction.
+- Potential playbook insight: before choosing YouTube topics, define the company's point of view and customer mental model.
